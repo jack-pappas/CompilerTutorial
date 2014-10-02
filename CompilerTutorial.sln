@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Arithmetic", "Arithmetic\Arithmetic.fsproj", "{4779CE6A-D734-4EB8-A38C-C1D4572364C3}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ArithmeticInfo", "ArithmeticInfo\ArithmeticInfo.fsproj", "{B7D83922-5A9C-450E-9E41-CC7A0AD1B100}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ArithmeticTyped", "ArithmeticTyped\ArithmeticTyped.fsproj", "{CA5F4A7D-93A9-43F5-A3B2-B7EB5E19957F}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ArithmeticVars", "ArithmeticVars\ArithmeticVars.fsproj", "{EE20B96B-B43B-490E-BE50-1121CFB82CD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4779CE6A-D734-4EB8-A38C-C1D4572364C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4779CE6A-D734-4EB8-A38C-C1D4572364C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4779CE6A-D734-4EB8-A38C-C1D4572364C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4779CE6A-D734-4EB8-A38C-C1D4572364C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D83922-5A9C-450E-9E41-CC7A0AD1B100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D83922-5A9C-450E-9E41-CC7A0AD1B100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D83922-5A9C-450E-9E41-CC7A0AD1B100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D83922-5A9C-450E-9E41-CC7A0AD1B100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA5F4A7D-93A9-43F5-A3B2-B7EB5E19957F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5F4A7D-93A9-43F5-A3B2-B7EB5E19957F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5F4A7D-93A9-43F5-A3B2-B7EB5E19957F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5F4A7D-93A9-43F5-A3B2-B7EB5E19957F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE20B96B-B43B-490E-BE50-1121CFB82CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE20B96B-B43B-490E-BE50-1121CFB82CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE20B96B-B43B-490E-BE50-1121CFB82CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE20B96B-B43B-490E-BE50-1121CFB82CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
